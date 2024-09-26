@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amanyadav721
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java DSA
-- 💞️ I’m looking to collaborate on android devlopment
+- 👋 Hi, I’m Aman Kumar
+- 👀 I’m interested in coding, Ai and Automation 
+- 🌱 I’m currently automating every software development
+- 💞️ I’m looking to collaborate in AI devlopment
 - 📫 My contact number-8295285277
         Email-ad721603@gmail.com
 
