@@ -15,12 +15,13 @@ I'm an AI Agent expert and a full-stack developer passionate about building inte
 ### 📬 Get in Touch
 - 📧 Email: [ad721603@gmail.com](mailto:ad721603@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aman-kumar-9b1811201/) 
-- 🐦 [Twitter](#) (Add your Twitter/X profile link)
+- 🐦 [Twitter](#) 
 
 ### 📊 GitHub Stats
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanyadav721&show_icons=true&theme=radical)
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact 
+🐦 [NamahAI](#https://namahai.vercel.app/)
 AI is revolutionizing the world, and I'm here to make it even smarter! 🚀
 
 
