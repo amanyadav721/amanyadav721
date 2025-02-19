@@ -17,8 +17,7 @@ I'm an AI Agent expert and a full-stack developer passionate about building inte
 - 💼 [LinkedIn](https://www.linkedin.com/in/aman-kumar-9b1811201/) 
 - 🐦 [Twitter](#) 
 
-### 📊 GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanyadav721&show_icons=true&theme=radical)
+
 
 ### ⚡ Fun Fact 
 🐦 [NamahAI](#https://namahai.vercel.app/)
