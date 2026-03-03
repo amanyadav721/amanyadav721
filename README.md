@@ -66,34 +66,6 @@ I design and build **production-grade AI systems**, autonomous agents, and scala
 - 💸 Performance & Cost Optimization  
 - 🚀 Full-Stack AI Product Execution  
 
----
-
-## 🧩 Featured Projects
-
-### 🧠 NamahAI  
-Multi-tool AI platform including:
-- 🖼 Image Generation  
-- 📄 PDF Chat  
-- 🗄 MongoDB Conversational Interface  
-- 📝 Quiz Generation  
-- 🔧 Tool-Based AI Agents  
-
----
-
-### 📊 Chat With Data  
-RAG-powered system that:
-- 📁 Supports PDF, CSV, Excel  
-- 💬 Enables interactive data querying  
-- 🧠 Uses chain-of-thought reasoning  
-- 📖 Provides explainable outputs  
-
----
-
-### 🎓 Shiksha AI  
-AI-powered personalized learning system:
-- 📚 Adaptive Testing  
-- 🧩 Dynamic Question Generation  
-- 📈 Performance Analytics  
 
 ---
 
